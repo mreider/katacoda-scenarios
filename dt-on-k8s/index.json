@@ -51,7 +51,7 @@
     },
     "environment": {
         "hidefinish": true,
-        "uilayout": "vscode-terminal-split",
+        "uilayout": "terminal-split",
         "uisettings": "yaml",
         "uieditorpath" : "~/dt/"
         
