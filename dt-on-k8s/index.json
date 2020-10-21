@@ -36,7 +36,6 @@
         ],
         "intro": {
             "text": "intro.md",
-            "courseData": "intro-background.sh",
             "code": "intro.sh"
         },
         "finish": {
