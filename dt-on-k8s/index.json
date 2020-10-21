@@ -46,7 +46,7 @@
         "assets": {
           "host01": [
                 {"file": "setup", "target": "~/s/", "chmod": "+x"},
-                {"file": "readme", "target": "~/dt/"}
+                {"file": "readme", "target": "~/dt/","chmod": "+rw"}
         ]}
     },
     "environment": {
