@@ -1,6 +1,14 @@
+## About this scenario
+
+This scenario shows how to activate Dynatrace on a Kubernetes cluster.
+
+
+
 ## Getting started
 
-This course shows how to activate Dynatrace on a Kubernetes cluster.
+
+
+
 
 ### Before you begin
 

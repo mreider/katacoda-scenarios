@@ -8,7 +8,7 @@
     "details": {
         "steps": [
             {
-                "title": "Check your K8s setup",
+                "title": "Deploy an app",
                 "text": "step1.md"
             },
             {
