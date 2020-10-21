@@ -51,7 +51,7 @@
     },
     "environment": {
         "hidefinish": true,
-        "uilayout": "terminal-split",
+        "uilayout": "editor-terminal",
         "uisettings": "yaml",
         "uieditorpath" : "~/dt/"
         
