@@ -13,6 +13,6 @@ spinner()
     done
     printf "    \b\b\b\b"
 }
-echo "Spinning up a k8s cluster..."
+echo "Spinning up a k8s cluster."
 launch.sh &
 spinner $!

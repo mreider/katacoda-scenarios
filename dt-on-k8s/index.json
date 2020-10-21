@@ -41,7 +41,7 @@
             "text": "finish.md"
         },
         "assets": {
-          "host01": [{"file": "setup", "target": "~/", "chmod": "+x"}]
+          "host01": [{"file": "setup", "target": "~/s/", "chmod": "+x"}]
         }
     },
     "environment": {
