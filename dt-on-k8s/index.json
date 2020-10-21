@@ -1,13 +1,13 @@
 {
-    "pathwayTitle": "Kubernetes",
-    "title": "Getting Started With Kubeadm",
-    "description": "Learn how to deploy a Kubeadm cluster",
+    "pathwayTitle": "dt-on-k8s",
+    "title": "Activating Dynatrace on Kubernetes",
+    "description": "Learn how to get Full Stack Kubernetes observability with Dynatrace",
     "difficulty": "intermediate",
     "time": "10-15 minutes",
     "details": {
         "steps": [
             {
-                "title": "Step 1 - Initialise Master",
+                "title": "Step 1 - Create a K8s cluster with kubeadm",
                 "text": "step1.md"
             },
             {
