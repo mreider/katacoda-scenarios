@@ -1,7 +1,9 @@
 ## Getting started
 
-We need a Kubernetes cluster before we begin.
+This course will teach you how to activate Dynatrace on a Kubernetes cluster. Fun!
 
-Kubeadm solves the problem of handling TLS encryption configuration, deploying the core Kubernetes components and ensuring that additional nodes can easily join the cluster. The resulting cluster is secured out of the box via mechanisms such as RBAC.
+Before you begin, sign up for a free [Dynatrace trial account](https://www.dynatrace.com/trial/). After signing up. find the **settings** link in the left menu, and navigate to **settings** ➡️ **Integration** ➡️ **Dynatrace API** 
 
-More details on Kubeadm can be found at https://github.com/kubernetes/kubeadm
+Now create an API token and paste it in here:
+
+
