@@ -1,6 +1,9 @@
 {
     "title": "Activating Dynatrace on Kubernetes",
     "description": "Learn how to get Full Stack Kubernetes observability with Dynatrace",
+    "difficulty": "Intermediate",
+    "time": "25 minutes",
+    "icon": "fa-kubernetes",
     "noindex" : true,
     "details": {
         "steps": [
@@ -41,15 +44,21 @@
             "text": "finish.md"
         },
         "assets": {
-          "host01": [{"file": "setup", "target": "~/s/", "chmod": "+x"}]
-        }
+          "host01": [
+                {"file": "setup", "target": "~/s/", "chmod": "+x"},
+                {"file": "readme", "target": "~/dt/"}
+        ]}
     },
     "environment": {
         "hidefinish": true,
-        "hideHiddenFiles": true,
-        "uilayout": "editor-terminal",
-        "uisettings": "javascript"
+        "uilayout": "vscode-terminal-split",
+        "uisettings": "yaml",
+        "uieditorpath" : "~/dt/"
+        
       },
+      "files": [
+        "readme"
+      ],
     "backend": {
       "imageid": "kubernetes-cluster-running:1.18"
     }

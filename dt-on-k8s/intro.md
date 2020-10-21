@@ -11,4 +11,4 @@ This course shows how to activate Dynatrace on a Kubernetes cluster.
 5. Navigate to **settings** ➡️ **Integration** ➡️ **Platform as a Service**
 6. Create a PaaS token and copy it as well.
 
-When you're ready to continue
+Click **Start Scenario** to continue.
