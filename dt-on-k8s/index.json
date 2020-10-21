@@ -5,7 +5,7 @@
     "details": {
         "steps": [
             {
-                "title": "Step 1 - Create a K8s cluster with kubeadm",
+                "title": "Check your K8s setup",
                 "text": "step1.md"
             },
             {
