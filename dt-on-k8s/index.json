@@ -2,8 +2,7 @@
     "pathwayTitle": "dt-on-k8s",
     "title": "Activating Dynatrace on Kubernetes",
     "description": "Learn how to get Full Stack Kubernetes observability with Dynatrace",
-    "difficulty": "intermediate",
-    "time": "10-15 minutes",
+    "noindex" : true,
     "details": {
         "steps": [
             {
@@ -48,7 +47,7 @@
         }
     },
     "environment": {
-        "uilayout": "terminal-terminal",
+        "uilayout": "terminal",
         "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
     },
     "backend": {
