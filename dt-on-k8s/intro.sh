@@ -1,2 +1,2 @@
 #!/bin/bash
-launch.sh
+launch.sh >> /root/katacoda-finished
