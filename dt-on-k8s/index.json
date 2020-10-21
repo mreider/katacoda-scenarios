@@ -1,5 +1,4 @@
 {
-    "pathwayTitle": "dt-on-k8s",
     "title": "Activating Dynatrace on Kubernetes",
     "description": "Learn how to get Full Stack Kubernetes observability with Dynatrace",
     "noindex" : true,
@@ -46,8 +45,10 @@
         }
     },
     "environment": {
+        "hidefinish": true,
+        "hideHiddenFiles": true,
         "uilayout": "editor-terminal",
-        "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands version 0.1.\u001b[m\r\n"
+        "uisettings": "javascript"
       },
     "backend": {
       "imageid": "kubernetes-cluster-running:1.18"
